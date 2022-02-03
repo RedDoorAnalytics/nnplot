@@ -1,0 +1,3 @@
+v 3
+d Stata package to plot of an artificial neural network
+p nnplot
