@@ -11,5 +11,5 @@ set scheme s2gcolor
 nnplot , inputs(10) outputs(5) hlayers(3) hnodes(8 3 4)  //title("")
 graph export "/Users/Michael/Documents/reddooranalytics/posts/nnplot2.jpg", replace
 
-nnplot , inputs(15) outputs(1) hlayers(3) hnodes(10 10 10)  //title("")
+nnplot , inputs(15) outputs(1) hlayers(3) hnodes(10 8 6)  //title("")
 graph export "/Users/Michael/Documents/reddooranalytics/posts/nnplot3.jpg", replace
